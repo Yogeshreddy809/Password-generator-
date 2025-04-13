@@ -1,0 +1,8 @@
+password-generator/
+├── password_generator.py  # Main Python script
+├── requirements.txt       # Dependencies
+├── output/                # Sample outputs
+│   └── sample_output.txt
+├── docs/
+│   └── report.md          # Project report
+└── README.md              # Repository documentation
